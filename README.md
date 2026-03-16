@@ -40,7 +40,5 @@ Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten.
 Sie haben zudem das Recht, eine Beschwerde bei der österreichischen 
 Datenschutzbehörde einzureichen: [dsb.gv.at](https://www.dsb.gv.at)
 
-**Verantwortlicher:**  
-[Karel Lang]  
-[]  
+**Verantwortlicher:**
 [karellang@hotmail.com]
